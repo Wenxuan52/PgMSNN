@@ -145,6 +145,7 @@ if __name__ == '__main__':
 
     # PgMSNN Prediction Heatmap
     u = predict.cpu().detach().numpy()
+    np.save('Prediction.npy', u)
     plt.figure(num=2, figsize=(10, 10), dpi=160)
     plt.imshow(u, interpolation='nearest', cmap='YlGnBu', origin='lower', aspect='auto')
     plt.colorbar(shrink=0.70)
