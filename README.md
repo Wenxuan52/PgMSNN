@@ -16,7 +16,7 @@ by Wenxaun Yuan and Rui Guo
 
 Running PgMSNN_main.py will draw the following image:
 
-<img src="F:\PINNs\PI_Dispersive_shock_wave\encryption\figures\PgMSNN Prediction heatmap.png" alt="PgMSNN Prediction heatmap" style="zoom: 33%;" />
+<img src="https://github.com/Wenxuan52/PgMSNN/blob/master/figures/PgMSNN%20Prediction%20heatmap.png" alt="PgMSNN Prediction heatmap" style="zoom: 33%;" />
 
 In addition, after running PgMSNN_main.py, an npy containing the final prediction of PgMSNN is generated to aid further analysis.
 
