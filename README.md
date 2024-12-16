@@ -53,7 +53,4 @@ cd PgMSNN
 pip install -r requirements.txt
 ```
 
-## Citation
-If you use PgMSNN in your research, please cite the arxiv preprint first, and the latest citation information will be updated after the official publication:
-
 
