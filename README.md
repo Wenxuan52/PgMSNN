@@ -25,7 +25,7 @@ Even when exposed to noisy data and complex parameter variations, PgMSNN retains
 
 ## Example result heatmap
 
-Running PgMSNN_main.py will draw the following image:
+Running `PgMSNN_main.py` will draw the following image:
 
 <img src="https://github.com/Wenxuan52/PgMSNN/blob/master/figures/PgMSNN%20Prediction%20heatmap.png" alt="PgMSNN Prediction heatmap" style="zoom: 33%;" />
 
@@ -41,7 +41,7 @@ The core code for the PgMSNN model is encrypted due to confidentiality reasons. 
 - numpy
 - pyDOE
 - scipy
-- torch==1.8.0 (recommend)
+- torch==1.8.0 (Recommend)
 
 ## Installation
 
