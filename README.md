@@ -53,4 +53,7 @@ cd PgMSNN
 pip install -r requirements.txt
 ```
 
+## Citations
+
+The paper on this model has been accepted by Physical Review E but has not yet been published. For details, please refer to this [link](https://journals.aps.org/pre/accepted/d907aRc0If716224840134f4f5a38997028db0429) in Physical Review E.
 
