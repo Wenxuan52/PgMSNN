@@ -55,5 +55,21 @@ pip install -r requirements.txt
 
 ## Citations
 
-The article on PgMSNN model has been accepted by ***Physical Review E*** but has not yet been published. For details, please refer to this [link](https://journals.aps.org/pre/accepted/d907aRc0If716224840134f4f5a38997028db0429) in ***Physical Review E***.
+The article on the **Physics-guided Multistage Neural Network (PgMSNN) model** has been accepted and officially published in ***Physical Review E***. If this work is helpful, please consider citing the following BibTeX reference.
 
+```latex
+@article{PhysRevE.110.065307,
+  title = {Physics-guided multistage neural network: A physically guided network for step initial values and dispersive shock wave phenomena},
+  author = {Yuan, Wen-Xuan and Guo, Rui},
+  journal = {Phys. Rev. E},
+  volume = {110},
+  issue = {6},
+  pages = {065307},
+  numpages = {20},
+  year = {2024},
+  month = {Dec},
+  publisher = {American Physical Society},
+  doi = {10.1103/PhysRevE.110.065307},
+  url = {https://link.aps.org/doi/10.1103/PhysRevE.110.065307}
+}
+```
